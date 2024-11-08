@@ -242,6 +242,7 @@ function generateResume() {
     /////////////////////////////////////////////////
     // Single Input Data Collecting
     /////////////////////////////////////////////////
+    
     dataTransfer(".name", "#fullName-Input");
     dataTransfer(".designation", "#designation-Input");
     dataTransfer(".para-AboutMe", "#aboutMe-Input");
